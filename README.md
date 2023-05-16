@@ -9,22 +9,22 @@ This documentation will include the hackathon schedule, judging criteria, submis
 
 **DATE AND VENUE**
 
-The event will take place on the 26th of May, 2023 from 9:00 a.m. to 3:00 p.m. at the CERSGIS Training Room.
+The event will take place on the 16th of June, 2023 from 9:00 a.m. to 3:00 p.m. at the CERSGIS Training Room.
 
 **GENERAL PROCEDURE**
 
-*Duration*
+###### *Duration*
 The hackathon will take place over two months. 
 The first month will be used for a meeting with the teams to provide a general overview of the GDZHIAO project and the hackathon itself. Possible themes or challenge areas will be discussed with participants.
 In the second month, a period of 4 weeks will be allotted to the teams for adequate preparation and completion of their respective projects. In the second week of preparation, a progress meeting will be held for teams to ask questions, express concerns and give feedback on their progress so far.
 
-*Team Size*
+###### *Team Size*
 There will be a total of three groups, each consisting of 4 - 6 members.
 
-*Satellite Imagery Requirements*
+###### *Satellite Imagery Requirements*
 All satellite imagery used in the hackathon must be sourced exclusively from the Sentinel imagery. The Sentinel satellites, operated by the European Space Agency (ESA) as part of the Copernicus program, provide high-quality, open-access remote sensing data that can be used for a wide range of applications, including app development. It is important to adhere to this requirement and only use Sentinel imagery to ensure compliance with data usage policies, copyright laws, and ethical considerations. Please refrain from using any other satellite imagery during the hackathon to ensure fair and consistent use of data by all participants.
 
-*Themes/Challenges*
+###### *Themes/Challenges*
 Six different themes or challenges will be carefully curated to inspire creativity and innovation among the participants. These challenges will address solutions to challenges at specific Ramsar sites.
 The challenges are listed below:
 
@@ -68,7 +68,7 @@ The challenges are listed below:
 *Results:* Solutions should involve developing sea level rise impact models, creating vulnerability assessment tools, and designing visualization tools for decision-makers to prioritize adaptation measures for coastal wetland conservation and management.
 
 
-**Challenge 6: Mangrove-Rescue: “Using Earth Observation Data for Mangrove Restoration Monitoring and Assessment”
+### **Challenge 6: Mangrove-Rescue: “Using Earth Observation Data for Mangrove Restoration Monitoring and Assessment”**
 *Area of Interest:* Keta catchment area
 
 *Expectations:* Make use of satellite imagery and other remote sensing data to monitor and assess mangrove restoration efforts along the wetland. develop innovative approaches that utilize remote sensing techniques, geospatial analysis, and machine learning algorithms to assess the success of mangrove restoration activities, including vegetation cover, structural characteristics, and hydrological connectivity in the catchment area.
@@ -79,50 +79,50 @@ The challenges are listed below:
 ## **MENTORS AND JUDGES**
 
 Each team will be assigned a mentor to guide them through the preparation period. Mentors will be recruited and selected based on the following criteria:
-● Technical expertise in computer programming
-● Background knowledge of the topic
-● Impartiality and fairness
-● Willingness and availability to provide guidance
-● Professionalism
+* Technical expertise in computer programming
+* Background knowledge of the topic
+* Impartiality and fairness
+* Willingness and availability to provide guidance
+* Professionalism
 
 Judges will also be recruited and selected to determine the winner of the event. These judges will be selected based on the following criteria:
-● Impartiality and Fairness
-● Understanding of the judging criteria
-● Professionalism
-● Technical expertise
-● Communication skills
+* Impartiality and Fairness
+* Understanding of the judging criteria
+* Professionalism
+* Technical expertise
+* Communication skills
 
 ##### _PRIZES_
 The prizes will be awarded as follows:
-● First Place Prize: **GHC 5,000**
-● Runner - Up Prize: **GHC 3,000**
-● Second Runner - Up Prize: **GHC 1,000**
+* First Place Prize: **GHC 5,000**
+* Runner - Up Prize: **GHC 3,000**
+* Second Runner - Up Prize: **GHC 1,000**
 
 ##### _JUDGING CRITERIA_
 
 Results are judged based on the following criteria:
-_Creativity and Innovation_
+###### _Creativity and Innovation_
 The judges will evaluate the creativity and originality used in developing the product that considers usability, design, and intuitiveness.
 
-_Functionality and Features_
+###### _Functionality and Features_
 The criteria will evaluate the functionality and features of the product. This will include its usability, performance, stability, performance, and reliability. Judges will assess whether the product meets its intended purpose and provides a smooth and intuitive user experience.
 
-_Solutions_
+###### _Solutions_
 The product will be reviewed to determine if it is a new and efficient solution that addresses the identified challenge and identifies useful patterns, change detections, and other insights to provide actionable information. Judges will evaluate the product's potential to solve real-world problems, its marketability, and its potential to create value for users or stakeholders.
 
-_Technical Implementation_
+###### _Technical Implementation_
 This criterion assesses the technical implementation of the product, including the quality of the code, the use of appropriate programming languages, frameworks, and libraries, and adherence to best coding practices. Judges will evaluate the technical complexity, scalability, and maintainability of the product.
 
-_Design and User Experience_
+###### _Design and User Experience_
 This criterion evaluates the visual appeal, aesthetics, and user experience of the product. Judges will assess the product's design elements, such as layout, typography, color schemes, and use of multimedia, as well as the overall user experience, including ease of use, navigation, and interaction.
 
-_Presentation and Demonstration_
+###### _Presentation and Demonstration_
 This criterion evaluates the quality of the team's presentation and demo of the product during the judging process. Judges will assess the clarity of the team's presentation, the effectiveness of the demo, and the ability of the team to effectively communicate the product's features, functionality, and value proposition.
 
-_Teamwork and Collaboration_
+###### _Teamwork and Collaboration_
 This criterion assesses the teamwork and collaboration skills demonstrated by the team during the hackathon. Judges will evaluate the team's ability to work together, communicate effectively, and leverage each team member's strengths to create a cohesive and well-executed product.
 
-_Time Management and Completion_
+###### _Time Management and Completion_
 This criterion evaluates the team's ability to manage their time effectively during the hackathon and complete the product within the given timeframe. Judges will assess the product's level of completion, including the extent to which it meets the initial goals and requirements set by the team.
 
 
@@ -147,28 +147,28 @@ By participating in the hackathon, you acknowledge and agree to the intellectual
 
 ## **EVENT DAY ACTIVITY**
 
-● Welcome Address 
-● Brief Presentation on the GDZHIAO project 
-● Review of Hackathon Judging Criteria 
-● Introduction of Teams 
-● Introduction of Judges 
-● Presentation of Results 
-● Time Allotted for Judges’ Assessment 
-● Presentation of Final Outcome 
-● Presentation of Awards 
-● Closing Remarks 
+* Welcome Address 
+* Brief Presentation on the GDZHIAO project 
+* Review of Hackathon Judging Criteria 
+* Introduction of Teams 
+* Introduction of Judges 
+* Presentation of Results 
+* Time Allotted for Judges’ Assessment 
+* Presentation of Final Outcome 
+* Presentation of Awards 
+* Closing Remarks 
 
 
 ## **RULES**
 
 The following rules must be adhered to throughout the hackathon period:
-● Following receipt of the hackathon guidelines, teams will choose a challenge to focus on and communicate their selection to the organizers. If multiple teams select the same challenge or if all selected challenges are concentrated on a particular area of interest, teams may be asked to change their chosen challenge to ensure a diverse range of topics is covered during the hackathon. 
-● Teams cannot consist of event organizers or planners. 
-● In instances where instructions or conditions are unclear, participants are allowed to ask organizers for clarification during the event. 
-● Work that is produced outside of the assigned topic may not be considered. 
-● Individuals and teams can be disqualified from the competition if organizers find it necessary to. This may be based on inappropriate participant behavior including, but not limited to, cheating, jeering, physical assault of participants, and disregard for organizers’ authority during the event. 
-● Once teams have been formed, group members are not allowed to change teams. 
-● Participants are required to submit all their hackathon results through a GitHub repository or within the designated GitHub environment provided by the event organizers. This allows for the easy and organized submission of code, documentation, and other relevant materials. After work is submitted, no additions or edits can be made.  
+* Following receipt of the hackathon guidelines, teams will choose a challenge to focus on and communicate their selection to the organizers. If multiple teams select the same challenge or if all selected challenges are concentrated on a particular area of interest, teams may be asked to change their chosen challenge to ensure a diverse range of topics is covered during the hackathon. 
+* Teams cannot consist of event organizers or planners. 
+* In instances where instructions or conditions are unclear, participants are allowed to ask organizers for clarification during the event. 
+* Work that is produced outside of the assigned topic may not be considered. 
+* Individuals and teams can be disqualified from the competition if organizers find it necessary to. This may be based on inappropriate participant behavior including, but not limited to, cheating, jeering, physical assault of participants, and disregard for organizers’ authority during the event. 
+* Once teams have been formed, group members are not allowed to change teams. 
+* Participants are required to submit all their hackathon results through a GitHub repository or within the designated GitHub environment provided by the event organizers. This allows for the easy and organized submission of code, documentation, and other relevant materials. After work is submitted, no additions or edits can be made.  
 
 
 ## **CONCLUSION**
